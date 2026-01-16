@@ -52,4 +52,3 @@ ekantipur-scraper/
 ├── README.md           # Project documentation
 └── output/             # Folder for scraped data
 
-Contribution
